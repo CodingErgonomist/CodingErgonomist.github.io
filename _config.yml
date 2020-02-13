@@ -27,7 +27,7 @@ description: Welcome, come check out what I have worked on!
 # List of links in the navigation bar
 navbar-links:
   
-  About Me: "aboutme"
+  About Me: "index"
   Projects:
     - Parity of War: "pow"
     - Triangle 180: "triangle"
