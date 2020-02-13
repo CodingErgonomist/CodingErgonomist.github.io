@@ -10,12 +10,12 @@ Brandon Sanderson."
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-  My name is <strong>Kevin Williams</strong>, I am an ergonomist, programmer and indie game devoloper, building new worldscapes for people to enjoy. I am from British Columbia, Canada.
+  My name is <strong>Kevin Williams</strong>, I am an ergonomist, programmer and indie game devoloper, building new worldscapes for people to enjoy.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I have a <strong>Bachelor's of Science in Kinesiology</strong> degree within the ergonomic stream from Simon Fraser University, Britsh Columbia (<a target="_blank" href="http://www.sfu.ca/">SFU</a>).
+I have a <strong>Bachelor's of Science in Kinesiology</strong> degree within the ergonomic stream from Simon Fraser University(<a target="_blank" href="http://www.sfu.ca/">SFU</a>).
 </p>
 
 <p class="about-text">
