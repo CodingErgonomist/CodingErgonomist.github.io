@@ -14,48 +14,46 @@ title: Anudit Verma - My Book Recommendations
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
-					<h3 class="product__title">The Alchemist</h3>
-					<span class="product__author highlight">Paulo Coelho</span>
+					<h3 class="product__title">We Are Legion (We Are Bob)</h3>
+					<span class="product__author highlight">Dennis E. Taylor</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
-					<h3 class="product__title">Now That You're Rich: Let's Fall in Love!</h3>
-					<span class="product__author highlight">Durjoy Datta & Maanvi Ahuja</span>
+					<h3 class="product__title">The Wheel Of Time Series</h3>
+					<span class="product__author highlight">Robert Jordan</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=now+that+you%27re+rich+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Zero_to_One.png" alt="Zero to One: Notes on Startups, or How to Build the Future" />
-					<h3 class="product__title">Zero to One: Notes on Startups, or How to Build the Future</h3>
-					<span class="product__author highlight">Peter Thiel & Blake Masters</span>
+					<h3 class="product__title">Mistborn</h3>
+					<span class="product__author highlight">Bradon Sanderson</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
-					<h3 class="product__title">The Subtle Art of Not Giving a F*ck</h3>
-					<span class="product__author highlight">Mark Manson</span>
+					<h3 class="product__title">A Pattern of Shadow & Light</h3>
+					<span class="product__author highlight">Melissa McPhail</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
-			<div class="product">
-				<div class="product__info">
+        			<div class="product__info
 					<img class="product__image" src="images/Harry_Potter_and_the_Cursed_Child.png" alt="Harry Potter and the Cursed Child" />
-					<h3 class="product__title">Harry Potter and the Cursed Child</h3>
-					<span class="product__author highlight">J. K. Rowling, Jack Thorne, & John Tiffany</span>
+					<h3 class="product__title">Destiny's Crucible</h3>
+					<span class="product__author highlight">Olan Thorensen</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
+        		</div>
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Astrophysics_for_People_in_a_Hurry.png" alt="Astrophysics for People in a Hurry" />
-					<h3 class="product__title">Astrophysics for People in a Hurry</h3>
-					<span class="product__author highlight">Neil deGrasse Tyson</span>
+					h3 class="product__title">Skyward</h3>
+					<span class="product__author highlight">Brandon Sanderson</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=astrophysics+for+people+in+a+hurry+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>		
