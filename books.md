@@ -44,14 +44,14 @@ title: Kevin Williams - My Book Recommendations
 				</div>
 			</div>
         			<div class="product__info">
-					<img class="product__image" src="destiny's_crucible.png" alt="Destiny's Crucible" />
+					<img class="product__image" src="destiny_crucible.png" alt="Destiny's Crucible" />
 					<h3 class="product__title">Destiny's Crucible</h3>
 					<span class="product__author highlight">Olan Thorensen</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
         		</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/skyward" alt="Skyward" />
+					<img class="product__image" src="images/skyward.png" alt="Skyward" />
 					<h3 class="product__title">Skyward</h3>
 					<span class="product__author highlight">Brandon Sanderson</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=astrophysics+for+people+in+a+hurry+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
