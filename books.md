@@ -9,7 +9,7 @@ title: Kevin Williams - My Book Recommendations
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>Books I Enjoy</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
@@ -83,6 +83,9 @@ title: Kevin Williams - My Book Recommendations
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=spellmonger+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
+			
+			<div class="my__suggestion"><center><h1><br>Podcasts I Would Recommend</h1></center><div>
+			
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Bounce.png" alt="Bounce" />
