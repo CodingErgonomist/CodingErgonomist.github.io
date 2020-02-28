@@ -115,10 +115,10 @@ title: Kevin Williams - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Power_of_Your_Subconscious_Mind.png" alt="The Power of Your Subconscious Mind" />
-					<h3 class="product__title">The Power of Your Subconscious Mind</h3>
-					<span class="product__author highlight">Joseph Murphy</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=power+of+subconscious+mind+joseph+murphy+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/clockwork_games.png" alt="Clockwork Games" />
+					<h3 class="product__title">The Clockwork Game Design Podcast</h3>
+					<span class="product__author highlight">Keith Burgun</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+clockwork+game+design+podcast')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
