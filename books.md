@@ -43,11 +43,13 @@ title: Kevin Williams - My Book Recommendations
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=a+pattern+of+shadow+and+light+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
+			<div class="product">
         			<div class="product__info">
 					<img class="product__image" src="images/destiny_crucible.png" alt="Destiny's Crucible" />
 					<h3 class="product__title">Destiny's Crucible</h3>
 					<span class="product__author highlight">Olan Thorensen</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=destiny's+crucible+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
         		</div>
 			<div class="product">
 				<div class="product__info">
