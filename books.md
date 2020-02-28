@@ -75,10 +75,10 @@ title: Kevin Williams - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Power_of_Habit.png" alt="The Power of Habit" />
-					<h3 class="product__title">The Power of Habit</h3>
-					<span class="product__author highlight">Charles Duhigg</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+power+of+habit+by+charles+duhigg+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/spellmonger.png" alt="Spellmonger" />
+					<h3 class="product__title">Spellmonger</h3>
+					<span class="product__author highlight">Terry Mancour</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=spellmonger+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
