@@ -61,7 +61,7 @@ title: Kevin Williams - My Book Recommendations
 			</div>		
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="benjamin_ashwood.png" alt="Benjamin Ashwood" />
+					<img class="product__image" src="images/benjamin_ashwood.png" alt="Benjamin Ashwood" />
 					<h3 class="product__title">Benjamin Ashwood</h3>
 					<span class="product__author highlight">A. C. Cobble</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Benjamin+Ashwood+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
