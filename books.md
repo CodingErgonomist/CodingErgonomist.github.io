@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Anudit Verma - My Book Recommendations
+title: Kevin Williams - My Book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -13,7 +13,7 @@ title: Anudit Verma - My Book Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Alchemist.png" alt="We Are Legion (We Are Bob)" />
+					<img class="product__image" src="images/we_are_bob.png" alt="We Are Legion (We Are Bob)" />
 					<h3 class="product__title">We Are Legion (We Are Bob)</h3>
 					<span class="product__author highlight">Dennis E. Taylor</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -21,7 +21,7 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="The Wheel Of Time Series" />
+					<img class="product__image" src="images/wheel_of_time.png" alt="The Wheel Of Time Series" />
 					<h3 class="product__title">The Wheel Of Time Series</h3>
 					<span class="product__author highlight">Robert Jordan</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=now+that+you%27re+rich+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -29,7 +29,7 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Zero_to_One.png" alt="Mistborn" />
+					<img class="product__image" src="images/Mistborn.png" alt="Mistborn" />
 					<h3 class="product__title">Mistborn</h3>
 					<span class="product__author highlight">Bradon Sanderson</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -37,21 +37,21 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="A Pattern of Shadow & Light" />
+					<img class="product__image" src="images/pattern_of_shadow_and_light.png" alt="A Pattern of Shadow & Light" />
 					<h3 class="product__title">A Pattern of Shadow & Light</h3>
 					<span class="product__author highlight">Melissa McPhail</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
         			<div class="product__info">
-					<img class="product__image" src="images/Harry_Potter_and_the_Cursed_Child.png" alt="Destiny's Crucible" />
+					<img class="product__image" src="destiny's_crucible.png" alt="Destiny's Crucible" />
 					<h3 class="product__title">Destiny's Crucible</h3>
 					<span class="product__author highlight">Olan Thorensen</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
         		</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Astrophysics_for_People_in_a_Hurry.png" alt="Skyward" />
+					<img class="product__image" src="images/skyward" alt="Skyward" />
 					<h3 class="product__title">Skyward</h3>
 					<span class="product__author highlight">Brandon Sanderson</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=astrophysics+for+people+in+a+hurry+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
