@@ -9,7 +9,7 @@ title: Kevin Williams - My Book Recommendations
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Enjoy</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>Books I Enjoy</h1></center></div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
@@ -85,10 +85,9 @@ title: Kevin Williams - My Book Recommendations
 			</div>
 		</section>
 
-		
-		<section class="grid">
+			<div class="my__suggestion"><center><h1><br>Podcasts I Would Recommend</h1></center></div>
 			
-			<div class="my__suggestion"><center><h1><br>Podcasts I Would Recommend</h1></center><div>
+			<section class="grid">
 			
 			<div class="product">
 				<div class="product__info">
