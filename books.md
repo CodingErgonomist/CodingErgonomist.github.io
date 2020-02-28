@@ -44,7 +44,7 @@ title: Kevin Williams - My Book Recommendations
 				</div>
 			</div>
         			<div class="product__info">
-					<img class="product__image" src="destiny_crucible.png" alt="Destiny's Crucible" />
+					<img class="product__image" src="images/destiny_crucible.png" alt="Destiny's Crucible" />
 					<h3 class="product__title">Destiny's Crucible</h3>
 					<span class="product__author highlight">Olan Thorensen</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=destiny's+crucible+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -59,10 +59,10 @@ title: Kevin Williams - My Book Recommendations
 			</div>		
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Who_Moved_My_Cheese.png" alt="Who Moved My Cheese?" />
-					<h3 class="product__title">Who Moved My Cheese?</h3>
-					<span class="product__author highlight">Spencer Johnson</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Who+Moved+My+Cheese%3F+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="benjamin_ashwood.png" alt="Benjamin Ashwood" />
+					<h3 class="product__title">Benjamin Ashwood</h3>
+					<span class="product__author highlight">A. C. Cobble</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Benjamin+Ashwood+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
