@@ -1,0 +1,35 @@
+---
+layout: page
+title: Triangle 180
+subtitle: "Triangle 180"
+css: "/css/aboutme.css"
+---
+
+<div id="aboutme-section">
+
+<iframe width="720" height="420"
+src="https://www.youtube.com/embed/FiShglDVjLE">
+</iframe>
+
+<h2>Description</h2>
+<p class="about-text">
+Triangle 180 is a connect-3 puzzle game that is easy learn but hard to master. It has two game modes, one being a limited time challenge to get as high of a score as possible and requires quick reflexes and pattern recognition. The second involves solving a puzzle by connecting triangles in the correct order to clear all the dots.
+</p>
+
+<h2>Awards</h2>
+<ul>
+<li> ▲ Taipei Game Show 2017 Indie Game Award - Audience Choice</li>
+<li> ▲ 2nd Place in Players Choice App of the Year 2016 - SlideDB</li>
+<li> ▲ Top 50 App of the Year 2016 - SlideDB</li>
+<li> ▲ Merit of Asia Smartphone Apps Contest 2016 - Games and Edutainment</li>
+<li> ▲ Best Android Game of the Week -- Android and Me</li>
+</ul>
+
+<h2>Contribution</h2>
+<ul>
+<li> Implementing power ups</li>
+<li> Ensuring device compatibility</li>
+<li> Creation of various menus and UI</li>
+<li> Extending the puzzle game mode</li>
+<li> Fixing bugs</li>
+</ul>
