@@ -94,7 +94,7 @@ title: Kevin Williams - My Book Recommendations
 					<img class="product__image" src="images/debug_log.png" alt="The Debug Log" />
 					<h3 class="product__title">The Debug Log</h3>
 					<span class="product__author highlight">Andrew Currie, Obinna Oparah, Zack Schneider, Ryan Killgore</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+debug+log+podcast')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('http://thedebuglog.com/')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -102,7 +102,7 @@ title: Kevin Williams - My Book Recommendations
 					<img class="product__image" src="images/hanselminutes.png" alt="Hanselminutes" />
 					<h3 class="product__title">Hanselminutes</h3>
 					<span class="product__author highlight">Scott Hanselman</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Hanselminutes+podcast')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://hanselminutes.com/')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -110,7 +110,7 @@ title: Kevin Williams - My Book Recommendations
 					<img class="product__image" src="images/personality_hacker.png" alt="Personality Hacker" />
 					<h3 class="product__title">Personality Hacker</h3>
 					<span class="product__author highlight">Joel Mark Witt, Antonia Dodge</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=personality+hacker+podcast')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://personalityhacker.com/')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -118,7 +118,7 @@ title: Kevin Williams - My Book Recommendations
 					<img class="product__image" src="images/clockwork_games.png" alt="Clockwork Games" />
 					<h3 class="product__title">The Clockwork Game Design Podcast</h3>
 					<span class="product__author highlight">Keith Burgun</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+clockwork+game+design+podcast')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('http://keithburgun.net/podcast-2/')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
 			<div class="product">
