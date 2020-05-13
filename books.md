@@ -139,7 +139,7 @@ title: Kevin Williams - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Cooptional.png" alt="Co-Optional Podcast" />
+					<img class="product__image" src="images/Cooptional.jpg" alt="Co-Optional Podcast" />
 					<h3 class="product__title">Co-Optional Podcast</h3>
 					<span class="product__author highlight">John "TotalBiscuit" Bain, Jesse Cox, Brooke Thorne</span>
 					<button class="action action--button" onclick="window.open('https://podcasts.apple.com/ca/podcast/the-co-optional-podcast/id941645857')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
