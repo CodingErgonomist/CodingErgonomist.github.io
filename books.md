@@ -123,51 +123,27 @@ title: Kevin Williams - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Hooked.png" alt="Hooked: How to Build Habit-Forming Products" />
-					<h3 class="product__title">Hooked: How to Build Habit-Forming Products</h3>
-					<span class="product__author highlight">Nir Eyal</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=hooked+nir+eyal+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/lost_cast.jpg" alt="Lost Cast" />
+					<h3 class="product__title">Lost Cast</h3>
+					<span class="product__author highlight">Geoff Blair & Matt Hackett</span>
+					<button class="action action--button" onclick="window.open('http://www.lostdecadegames.com/lostcast/')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_One_Thing.png" alt="The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results" />
-					<h3 class="product__title">The One Thing</h3>
-					<span class="product__author highlight">Gary W. Keller & Jay Papasan</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+One+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results&oq=The+one+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/Game_Design_Round_Table.jpg" alt="The Game Design Round Table" />
+					<h3 class="product__title">The Game Design Round Table</h3>
+					<span class="product__author highlight">Dirk Knemeyer, David V. Heron, Skye Larsen, Kathryn Hymes</span>
+					<button class="action action--button" onclick="window.open('https://thegamedesignroundtable.com/')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
-					<h3 class="product__title">Quirkology: The Curious Science of Everyday Lives</h3>
-					<span class="product__author highlight">Richard Wiseman</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Quirkology%3A+The+Curious+Science+of+Everyday+Lives+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/Cooptional.png" alt="Co-Optional Podcast" />
+					<h3 class="product__title">Co-Optional Podcast</h3>
+					<span class="product__author highlight">John "TotalBiscuit" Bain, Jesse Cox, Brooke Thorne</span>
+					<button class="action action--button" onclick="window.open('https://podcasts.apple.com/ca/podcast/the-co-optional-podcast/id941645857')"><i class="fa fa-comments"></i><span class="action__text">Link</span></button>
 				</div>
 			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Rules_of_Life.png" alt="The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life" />
-					<h3 class="product__title">The Rules of Life</h3>
-					<span class="product__author highlight">Richard Templar</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+rules+of+life+by+richard+templar+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Simp.png" alt="Simplicity" />
-					<h3 class="product__title">Simplicity</h3>
-					<span class="product__author highlight">Edward de Bono</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=simplicity+edward+de+bono+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Goldilocks_Enigma.png" alt="The Goldilocks Enigma: Why is the Universe Just Right for Life?" />
-					<h3 class="product__title">The Goldilocks Enigma</h3>
-					<span class="product__author highlight">Paul Davies</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F&oq=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>			
 		</section>
 	</div>
