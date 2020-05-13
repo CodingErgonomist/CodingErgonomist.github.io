@@ -20,7 +20,7 @@ I have a <strong>Bachelor's of Science in Kinesiology</strong> degree within the
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I am fond of video games, I love playing a good competitive game with a close group of friends that really push our ability to coordinate as a team. I also always enjoy a good turn based tactical game or games with an immersive story. Apart from these I love listening to audiobooks and podcasts, boardgames, playing tennis, soccer and hiking. I am eager to meet new people, to connect, discuss, network and grow.
+I love playing a good competitive game with a close group of friends that really push our ability to coordinate as a team. I also always enjoy a good turn based tactical game or games with an immersive story. Apart from these I love listening to audiobooks and podcasts, boardgames, playing tennis, soccer and hiking. I am eager to meet new people, to connect, discuss, network and grow.
 </p>
 
 <p class="about-text">
