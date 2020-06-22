@@ -13,6 +13,30 @@ title: Kevin Williams - My Book Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/cleancode.jpg" alt="Clean Code" />
+					<h3 class="product__title">Clean Code</h3>
+					<span class="product__author highlight">Robert C. Martin</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=clean+code')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/gamepatterns.jpg" alt="Game Programming Patterns"/>
+					<h3 class="product__title">Game Programming Patterns</h3>
+					<span class="product__author highlight">Robert Nystrom</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=game+programming+patterns')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+						<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/7habbits.jpg" alt="7 Habits of Highly Effective People"/>
+					<h3 class="product__title">7 Habits of Highly Effective People</h3>
+					<span class="product__author highlight">Stephen Covey</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+seven+habits+of+highly+effective+people')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/we_are_bob.png" alt="We Are Legion (We Are Bob)" />
 					<h3 class="product__title">We Are Legion (We Are Bob)</h3>
 					<span class="product__author highlight">Dennis E. Taylor</span>
