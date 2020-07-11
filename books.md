@@ -27,12 +27,20 @@ title: Kevin Williams - My Book Recommendations
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=game+programming+patterns')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
-						<div class="product">
+			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/7habbits.jpg" alt="7 Habits of Highly Effective People"/>
 					<h3 class="product__title">7 Habits of Highly Effective People</h3>
 					<span class="product__author highlight">Stephen Covey</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+seven+habits+of+highly+effective+people')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/devopshandbook.jpg" alt="The DevOps Handbook"/>
+					<h3 class="product__title">The DevOps Handbook</h3>
+					<span class="product__author highlight">Gene Kim, Jez Humble, Patrick Debois, John Willis</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+DevOps+Handbook:+how+to+create+world-class+agility')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
